@@ -4,22 +4,10 @@
     "ServerID": "00000000000000000000",
     "AdminID": "00000000000000000000",
     "Debug": false,
-    "NPC Message Format": "&l[CHAT COLOR][NPC NAME]> &r[MESSAGE]",
+    "NPC Message Format": "[CHAT COLOR]&l[NPC NAME]> &r[MESSAGE]",
     "Message Delay": 1.0,
     "Messages":{
         "Reload": "&aReloaded NPCS!",
-        "Debug Alert": "&aFile Extension: &2plugins/iCodeDevelopment/NPC/npc_[NPC NAME]&2.json"
-    },
-    "NPCS": {
-        "EXAMPLE": {
-            "Name": "",
-            "ChatColor": "",
-            "Messages": [
-                ""
-            ],
-            "Commands": [
-                ""
-            ]
-        }
+        "Debug Alert": "&aFile Extension: &2plugins/iCodeDevelopment/NPC/NPC-Data/npc_[NPC NAME]&2.json"
     }
 }
