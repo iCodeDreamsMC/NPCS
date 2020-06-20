@@ -8,7 +8,7 @@
     "Message Delay": 1.0,
     "Messages":{
         "Reload": "&aReloaded NPCS!",
-        "Debug Menu Alert": "&aFile Extension: &2plugins/iCodeDevelopment/NPC/npc_[NPC NAME]&2.json"
+        "Debug Alert": "&aFile Extension: &2plugins/iCodeDevelopment/NPC/npc_[NPC NAME]&2.json"
     },
     "NPCS": {
         "EXAMPLE": {
